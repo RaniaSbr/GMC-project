@@ -176,6 +176,9 @@ li {
 .movies-title {
   color: #fcbd46;
 }
+.movie-list-wrap {
+  margin-right: 0px;
+}
 .movies {
   transition: 0.5s ease-in-out;
   position: absolute;
@@ -242,10 +245,9 @@ li {
   position: absolute;
   opacity: 0.5;
   color: #fcbd46;
-  margin-left: 1550px;
+  margin-left: 1500px;
 }
 .movie-list-wrap {
-  margin-left: 20px;
 }
 .fcimg {
   width: 100vw;
